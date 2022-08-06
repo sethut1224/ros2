@@ -193,16 +193,16 @@ repositories:
     version: galactic
   ros2/common_interfaces:
     type: git
-    url: https://github.com/ros2/common_interfaces.git
-    version: galactic
+    url: https://github.com/sethut1224/common_interfaces.git
+    version: tcl-galactic
   ros2/console_bridge_vendor:
     type: git
     url: https://github.com/ros2/console_bridge_vendor.git
     version: galactic
   ros2/demos:
     type: git
-    url: https://github.com/ros2/demos.git
-    version: galactic
+    url: https://github.com/sethut1224/demos.git
+    version: tcl-galactic
   ros2/eigen3_cmake_module:
     type: git
     url: https://github.com/ros2/eigen3_cmake_module.git
@@ -269,8 +269,8 @@ repositories:
     version: galactic
   ros2/rclcpp:
     type: git
-    url: https://github.com/ros2/rclcpp.git
-    version: galactic
+    url: https://github.com/sethut1224/rclcpp
+    version: tcl-galactic
   ros2/rclpy:
     type: git
     url: https://github.com/ros2/rclpy.git
